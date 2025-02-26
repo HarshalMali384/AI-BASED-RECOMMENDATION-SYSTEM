@@ -1,0 +1,12 @@
+org.apache.mahout.cf.taste.eval.DataModelBuilder;
+org.apache.mahout.cf.taste.eval.RecommenderBuilder;
+org.apache.mahout.cf.taste.eval.RecommenderEvaluator;
+org.apache.mahout.cf.taste.impl.eval.AverageAbsoluteDifferenceRecommenderEvaluator;
+org.apache.mahout.cf.taste.impl.model.file.FileDataModel;
+org.apache.mahout.cf.taste.impl.neighborhood.NearestNUserNeighborhood;
+org.apache.mahout.cf.taste.impl.recommender.GenericUserBasedRecommender;
+org.apache.mahout.cf.taste.impl.similarity.PearsonCorrelationSimilarity;
+org.apache.mahout.cf.taste.model.DataModel;
+org.apache.mahout.cf.taste.neighborhood.UserNeighborhood;
+org.apache.mahout.cf.taste.recommender.Recommender;
+org.apache.mahout.cf.taste.similarity.UserSimilarity;
